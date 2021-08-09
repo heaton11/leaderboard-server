@@ -1,6 +1,0 @@
-import { ApplicationConfig, LeaderboardApplication } from './application';
-export declare function main(options?: ApplicationConfig): Promise<LeaderboardApplication>;
-export * from '@loopback/rest';
-export * from './application';
-export * from './models';
-export * from './repositories';

@@ -9,9 +9,9 @@
 /coverage
 
 # production
-dist
+/dist
 
-.vscode
+/.vscode
 
 # misc
 .DS_Store
