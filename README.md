@@ -1,4 +1,4 @@
-# Leaderboard Server 
+# Leaderboard Server [![CodeFactor](https://www.codefactor.io/repository/github/heaton11/leaderboard-server/badge)]
 
 ## Targets
 
