@@ -8,7 +8,7 @@
 - Store player's daily rank after every day on Mongodb for calculating daily difference in rank
 - Have a system that can run based on real time solution and horizontally scalable
 - Have a generation endpoint that will create dummy users at certain amount (**I created 1000 players for testing purpose**)
-- Have an endpoint that fetches first 100 player followed by a random player with 3 players above and 2 players below that player(**Endpoint: /leaderboard** )
+- Have an endpoint that fetches first 100 players followed by a random player with 3 players above and 2 players below that player(**Endpoint: /leaderboard** )
 - Have an endpoint that will give all players a random amount of money (**Endpoint: /leaderboard/random/{digit}**)
 - Have an endpoint that saves all players rank on daily rank field on mongodb (**Endpoint: /leaderboard/closeTheDay**)
 - Have an endpoint that share the prize pool among top 100 players according to their ranks (**Endpoint: /leaderboard/closeTheWeek**)
